@@ -1,5 +1,9 @@
 # pg-id-656-main-controller-pcb
 Custom PCB controller board for an autonomous wheeled robot featuring **STM32L476RG**
+<div align="center">
+    <img src="images/photo1.jpeg" width="50%">
+</div>
+
 
 ## Project Scope
 * **Design:** Mixed-signal schematic and custom 2-layer PCB layout designed in **KiCad 9.0.5**.
@@ -14,8 +18,8 @@ Custom PCB controller board for an autonomous wheeled robot featuring **STM32L47
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="images/IMG_2.jpeg" width="45%">
-  <img src="images/IMG_1.jpeg" width="45%">
+  <img src="images/photo2.jpeg" width="45%">
+  <img src="images/photo3.jpeg" width="45%">
 </div>
 
 
@@ -23,6 +27,10 @@ Custom PCB controller board for an autonomous wheeled robot featuring **STM32L47
 <div style="display: flex; gap: 10px;">
   <img src="images/robot-pcb-layout_1.png" width="45%">
   <img src="images/robot-pcb-layout_2.png" width="45%">
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="images/photo4.jpeg" width="45%">
+  <img src="images/photo5.jpeg" width="45%">
 </div>
 
 
