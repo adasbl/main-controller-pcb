@@ -1,5 +1,5 @@
 # pg-id-656-main-controller-pcb
-Custom PCB controller board for an autonomous wheeled robot featuring **STM32L476RG**
+Custom PCB controller board for an [autonomous wheeled robot](https://github.com/adasbl/Projekt-Grupowy-ID-656.git) featuring **STM32L476RG**
 <div align="center">
     <img src="images/photo1.jpeg" width="60%">
 </div>
